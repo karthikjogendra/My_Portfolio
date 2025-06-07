@@ -8,7 +8,7 @@ const introdata = {
     title: "I’m Karthik Buddala",
     animated: {
         first: "Data Scientist",
-        second: "Data Analyst",
+        second: "Machine learning",
         third: "Fullstack Web Developer",
     },
     description: "I’m Karthik Buddala data scientist _ Full stack devloper,currently working in Berlin",
