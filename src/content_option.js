@@ -10,6 +10,7 @@ const introdata = {
         first: "Data Scientist",
         second: "Machine learning",
         third: "Fullstack Web Developer",
+
     },
     description: "I’m Karthik Buddala data scientist _ Full stack devloper,currently working in Berlin",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -73,9 +74,9 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://wallpapercat.com/w/full/5/1/d/5815532-3840x2160-desktop-hd-4k-wallpaper-image.jpg",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://drive.google.com/file/d/1eeX5XM5pxBI_unlHLSMqyh81jC8I7X13/view?usp=drivesdk",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
@@ -94,11 +95,6 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
@@ -137,13 +133,13 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "buddalakarthik4@gmail.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_FONE: "+91 8247021297",
+    description: "Pursuing B.Tech 3rd year from LPU , Aspiring Data Scientist Feel Free to Enquire ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_49bnjvo",
+    YOUR_TEMPLATE_ID: "template_np8mwfj",
+    YOUR_USER_ID: "5rIYuZsjFBfH9kTtk",
 };
 
 const socialprofils = {
